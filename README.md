@@ -6,8 +6,8 @@
 4. Excel Files folder contains our original Excel files, which we used for our project.
 
 
- # -Utilized Python and advanced data analysis techniques to predict COVID-19 diagnoses.
+  -Utilized Python and advanced data analysis techniques to predict COVID-19 diagnoses.
  
- # -Analyzed symptoms and demographic data to develop accurate diagnostic models.
+  -Analyzed symptoms and demographic data to develop accurate diagnostic models.
  
- # -Significantly improved diagnostic accuracy.
+  -Significantly improved diagnostic accuracy.
